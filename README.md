@@ -6,6 +6,7 @@ The project is used to display all the functionalities available for the followi
 3. Tech Department Class
 
 The project has the following packages
+
 Controller package: The Controller package has the Main.Class that drives the execution of the program.
 
 Models package: The models package has the definition of the classes used in the project. 
