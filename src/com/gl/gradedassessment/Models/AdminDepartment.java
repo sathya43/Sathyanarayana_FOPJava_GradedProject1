@@ -13,7 +13,7 @@ public class AdminDepartment extends SuperDepartment {
 
 	@Override
 	public String getTodaysWork() {
-		return "Complete your documents Submission";
+		return "Complete your documents submission";
 	}
 
 	@Override
