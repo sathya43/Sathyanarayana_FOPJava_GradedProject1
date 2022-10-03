@@ -13,7 +13,7 @@ public class SuperDepartment {
 	}
 
 	public String departmentName() {
-		return "Super Department";
+		return this.departmentName;
 	}
 
 	public String getTodaysWork() {
