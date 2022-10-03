@@ -21,15 +21,6 @@ public class AdminDepartment extends SuperDepartment {
 		return "Complete by EOD";
 	}
 	
-	/*
-	 * This method is used to display all the functionalities available for Admin Department class
-	 */
-	public void displayAllFunctionalities() {
-		System.out.println("Welcome to " + this.departmentName());
-		System.out.println(this.getTodaysWork());
-		System.out.println(this.getWorkDeadline());
-		System.out.println(this.isTodayAHoliday());
-		System.out.println();
-	}
+
 
 }
