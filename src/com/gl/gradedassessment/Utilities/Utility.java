@@ -5,8 +5,8 @@ import com.gl.gradedassessment.Models.HrDepartment;
 import com.gl.gradedassessment.Models.TechDepartment;
 
 /*
- * This class contains utility methods of classes that print out the available functionality 
- * for that corresponding class. Whenever new functionality added as part of classes. We 
+ * This class contains utility methods that print out the available functionality 
+ * for a class. Whenever new functionality added as part of classes. We 
  * can add that entry hear and verify the new functionality
  */
 public class Utility {
