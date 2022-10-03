@@ -7,12 +7,15 @@ The project is used to display all the functionalities available for the followi
 
 The project has the following packages
 
-Controller package: The Controller package has the Main.Class that drives the execution of the program.
+1. Controller package: The Controller package has the Main.Class that drives the execution of the program.
 
-Models package: The models package has the definition of the classes used in the project. 
-The models package has the follwoing classes
-Super Department Class which is the parent class.
-All the other three classes Admin Department, HR Department, Tech Department are the sub classes which extend the Super Department Class.
+2. Models package: The models package has the definition of the classes used in the project. 
+
+      The models package has the follwoing classes 
+ 
+      Super Department Class which is the parent class.
+
+      All the other three classes Admin Department, HR Department, Tech Department are the sub classes which extend the Super Department Class.
 
 
 
