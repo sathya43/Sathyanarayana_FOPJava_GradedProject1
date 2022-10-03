@@ -1,6 +1,6 @@
 # Sathyanarayana_FOPJava_GradedProject1
 
-The project is used to display all the functionalities available for the follwoing Classes
+The project is used to display all the functionalities available for the following Classes
 1. Admin Department Class
 2. HR department Class
 3. Tech Department Class
