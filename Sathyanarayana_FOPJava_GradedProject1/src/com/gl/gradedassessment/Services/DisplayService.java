@@ -16,11 +16,11 @@ public class DisplayService {
 	
     	public void printFunctionality(AdminDepartment admin) {
 		        utility.displayAdminClassFunctionalities(admin);
-	    }
+	}
 
         public void printFunctionality(HrDepartment hr) {
 		        utility.displayHRClassFunctionalities(hr);
-	    }
+	}
     
         public void printFunctionality(TechDepartment tech) {
     	        utility.displayTechClassFunctionalities(tech);
