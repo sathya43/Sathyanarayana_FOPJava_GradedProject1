@@ -17,7 +17,7 @@ The project has the following packages
 
       All the other three classes Admin Department, HR Department, Tech Department are the sub classes which extend the Super Department Class.
       
-3. Services: The services package contains the DisplayService class that prints output to output stream
+3. Services: The services package contains the DisplayService class that has overloaded printFunctionality( ) method that prints output to output stream.
       
 4. Utilities package: This package has utility methods to print the functionality available for different classes
 
