@@ -3,9 +3,8 @@ package com.gl.gradedassessment.Controller;
 import com.gl.gradedassessment.Models.AdminDepartment;
 import com.gl.gradedassessment.Models.HrDepartment;
 import com.gl.gradedassessment.Models.TechDepartment;
-import com.gl.gradedassessment.Utilities.Utility;
+import com.gl.gradedassessment.Services.DisplayService;
 
-import om.gl.gradedassessment.Services.DisplayService;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package om.gl.gradedassessment.Services;
+package com.gl.gradedassessment.Services;
 
 import com.gl.gradedassessment.Models.AdminDepartment;
 import com.gl.gradedassessment.Models.HrDepartment;
