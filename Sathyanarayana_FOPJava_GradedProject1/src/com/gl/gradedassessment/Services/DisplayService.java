@@ -14,15 +14,15 @@ public class DisplayService {
 	
 	Utility utility = new Utility();
 	
-	public void printFunctionality(AdminDepartment admin) {
-		utility.displayAdminClassFunctionalities(admin);
-	}
+    	public void printFunctionality(AdminDepartment admin) {
+		        utility.displayAdminClassFunctionalities(admin);
+	    }
 
-    public void printFunctionality(HrDepartment hr) {
-		utility.displayHRClassFunctionalities(hr);
-	}
+        public void printFunctionality(HrDepartment hr) {
+		        utility.displayHRClassFunctionalities(hr);
+	    }
     
-    public void printFunctionality(TechDepartment tech) {
-    	utility.displayTechClassFunctionalities(tech);
-    }
+        public void printFunctionality(TechDepartment tech) {
+    	        utility.displayTechClassFunctionalities(tech);
+        }
 }
