@@ -1,8 +1,8 @@
 package com.gl.gradedassessment.Utilities;
 
-import com.gl.gradedassessment.Models.AdminDepartment;
-import com.gl.gradedassessment.Models.HrDepartment;
-import com.gl.gradedassessment.Models.TechDepartment;
+import com.gl.gradedassessment.Models.Departments.AdminDepartment;
+import com.gl.gradedassessment.Models.Departments.HrDepartment;
+import com.gl.gradedassessment.Models.Departments.TechDepartment;
 
 /*
  * This class contains utility methods of classes that print out the available functionality 
