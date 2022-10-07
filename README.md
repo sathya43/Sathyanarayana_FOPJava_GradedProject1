@@ -9,9 +9,9 @@ The project has the following packages
 
 1. Controller package: The Controller package has the Main.Class that drives the execution of the program.
 
-2. Models package: The models package has the definition of the classes used in the project. 
+2. Models/Departments package: This package has the definition of the classes used in the project.
 
-      The models package has the follwoing classes 
+      The package has the follwoing classes 
  
       Super Department Class which is the parent class.
 
