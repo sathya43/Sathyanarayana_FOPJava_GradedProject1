@@ -11,7 +11,7 @@ The project has the following packages
 
 2. Models/Departments package: This package has the definition of the classes used in the project.
 
-      The package has the follwoing classes 
+      The package has the following classes 
  
       Super Department Class which is the parent class.
 
